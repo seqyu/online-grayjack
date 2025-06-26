@@ -10,7 +10,7 @@ You can chose to either get more cards, don't get more, or just fold if you feel
 ## Grayjack Rules
 
 ## How Grayjack was born
-It all started 175 years ago, in Le Grand Cercle casino in France. No actually it was just a regular tuesday noon at school on the 24th of june 2025.
+It all started 175 years ago, in Le Grand Cercle casino in France. No actually it was just a regular tuesday afternoon on the 24th of june 2025.
 
 I was playing Blackjack with a friend and he came up with an idea, being able to see your cards during the betting phase. I found this idea amazing and we played with it.
 
