@@ -1,5 +1,5 @@
 # Online Grayjack
-An online game of Grayjack (a variant of Blackjack/Twenty-One) made with Flask.
+An online game of Grayjack (a variant of Blackjack / Twenty-One) made with Flask.
 
 ## Setting up an Online Grayjack server
 > [!NOTE]
